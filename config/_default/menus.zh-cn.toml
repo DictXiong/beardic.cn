@@ -1,0 +1,36 @@
+[[main]]
+  name = "博客"
+  pre = "wordpress-simple"
+  url = "https://blog.beardic.cn"
+  weight = 10
+
+[[main]]
+  name = "日志"
+  pre = "newspaper-regular"
+  url = "https://log.beardic.cn"
+  weight = 20
+
+[[main]]
+  name = "更多"
+  weight = 30
+
+[[main]]
+  name = "工具"
+  parent = "更多"
+  pre = "wrench-regular"
+  url = "https://tools.beardic.cn"
+  weight = 30
+
+[[main]]
+  name = "云盘"
+  parent = "更多"
+  pre = "hard-drive-regular"
+  url = "https://drive.beardic.cn"
+  weight = 40
+
+[[main]]
+  name = "服务状态"
+  parent = "更多"
+  pre = "server-regular"
+  url = "https://status.beardic.cn"
+  weight = 50

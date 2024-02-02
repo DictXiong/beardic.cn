@@ -1,13 +1,13 @@
 languageCode = "en"
 languageName = "English"
-weight = 1
+weight = 2
 title = "Dict Xiong"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2006-01-02"
+  dateFormat = "Jan 2, 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
@@ -16,7 +16,7 @@ title = "Dict Xiong"
 [author]
   name = "Dict Xiong"
   image = "img/wifitest.png"
-  headline = "This site is WIP. So is my life."
+  headline = "Work in Progress"
   # bio = "A little bit about you dd"
   links = [
     { email = "mailto:me@beardic.cn" },

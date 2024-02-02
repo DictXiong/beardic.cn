@@ -1,0 +1,22 @@
+languageCode = "zh-cn"
+languageName = "Chinese (Simplified)"
+weight = 1
+title = "Dict Xiong"
+
+[params]
+  displayName = "中文"
+  isoCode = "zh-CN"
+  rtl = false
+  dateFormat = "2006-01-02"
+  copyright = '<a href="http://beian.miit.gov.cn/" rel="external nofollow" target="_blank" style="font-size:12px">京ICP备18039357号-1</a>'
+
+[author]
+  name = "Dict Xiong"
+  image = "img/wifitest.png"
+  headline = "摸鱼中"
+  links = [
+    { email = "mailto:me@beardic.cn" },
+    { github = "https://github.com/DictXiong" },
+    { steam = "https://steamcommunity.com/profiles/76561198260624920" },
+    { telegram = "https://t.me/DictXiong" },
+  ]
