@@ -22,6 +22,13 @@
   weight = 30
 
 [[main]]
+  name = "短链接"
+  parent = "更多"
+  pre = "link-regular"
+  url = "https://ibd.ink"
+  weight = 35
+
+[[main]]
   name = "云盘"
   parent = "更多"
   pre = "hard-drive-regular"

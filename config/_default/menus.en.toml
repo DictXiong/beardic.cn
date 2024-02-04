@@ -35,6 +35,13 @@
   weight = 30
 
 [[main]]
+  name = "URL Shortener"
+  parent = "More"
+  pre = "link-regular"
+  url = "https://ibd.ink"
+  weight = 35
+
+[[main]]
   name = "Cloud Drive"
   parent = "More"
   pre = "hard-drive-regular"
