@@ -28,6 +28,13 @@
   weight = 30
 
 [[main]]
+  name = "DN42"
+  parent = "More"
+  pre = "chart-network-regular"
+  pageRef = "dn42"
+  weight = 25
+
+[[main]]
   name = "Tools"
   parent = "More"
   pre = "wrench-regular"
