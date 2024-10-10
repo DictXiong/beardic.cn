@@ -11,15 +11,14 @@
   weight = 20
 
 [[main]]
-  name = "更多"
-  weight = 30
-
-[[main]]
   name = "DN42"
-  parent = "更多"
   pre = "chart-network-regular"
   pageRef = "dn42"
   weight = 25
+
+[[main]]
+  name = "更多"
+  weight = 30
 
 [[main]]
   name = "工具"
@@ -36,10 +35,10 @@
   weight = 35
 
 [[main]]
-  name = "云盘"
+  name = "MC皮肤站"
   parent = "更多"
-  pre = "hard-drive-regular"
-  url = "https://drive.beardic.cn"
+  pre = "creeper"
+  url = "https://skin.beardic.cn"
   weight = 40
 
 [[main]]

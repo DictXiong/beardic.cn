@@ -19,20 +19,18 @@
 [[main]]
   name = "DevLog"
   pre = "newspaper-regular"
-#   pre = "note-sticky-regular"
   url = "https://log.beardic.cn"
   weight = 20
 
 [[main]]
-  name = "More"
-  weight = 30
-
-[[main]]
   name = "DN42"
-  parent = "More"
   pre = "chart-network-regular"
   pageRef = "dn42"
   weight = 25
+
+[[main]]
+  name = "More"
+  weight = 30
 
 [[main]]
   name = "Tools"
@@ -49,10 +47,10 @@
   weight = 35
 
 [[main]]
-  name = "Cloud Drive"
+  name = "Minecraft Skin"
   parent = "More"
-  pre = "hard-drive-regular"
-  url = "https://drive.beardic.cn"
+  pre = "creeper"
+  url = "https://skin.beardic.cn"
   weight = 40
 
 [[main]]
