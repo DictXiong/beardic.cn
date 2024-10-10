@@ -10,7 +10,7 @@ title = "Dict Xiong"
   dateFormat = "2006-01-02"
   copyright = '<a href="http://beian.miit.gov.cn/" rel="external nofollow" target="_blank" style="font-size:12px">京ICP备18039357号-1</a>'
 
-[author]
+[params.author]
   name = "Dict Xiong"
   image = "img/wifitest.png"
   headline = "摸鱼中"
