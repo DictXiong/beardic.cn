@@ -1,13 +1,13 @@
 [[main]]
   name = "博客"
   pre = "wordpress-simple"
-  url = "https://blog.beardic.cn"
+  url = "https://blog.dxng.cn"
   weight = 10
 
 [[main]]
   name = "日志"
   pre = "newspaper-regular"
-  url = "https://log.beardic.cn"
+  url = "https://log.dxng.cn"
   weight = 20
 
 [[main]]
@@ -24,7 +24,7 @@
   name = "工具"
   parent = "更多"
   pre = "wrench-regular"
-  url = "https://tools.beardic.cn"
+  url = "https://tools.dxng.cn"
   weight = 30
 
 [[main]]
@@ -38,12 +38,12 @@
   name = "MC皮肤站"
   parent = "更多"
   pre = "creeper"
-  url = "https://skin.beardic.cn"
+  url = "https://skin.dxng.cn"
   weight = 40
 
 [[main]]
   name = "服务状态"
   parent = "更多"
   pre = "server-regular"
-  url = "https://status.beardic.cn"
+  url = "https://status.dxng.cn"
   weight = 50

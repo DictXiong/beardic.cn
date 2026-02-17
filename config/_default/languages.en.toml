@@ -11,7 +11,7 @@ title = "Dict Xiong"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = '<a href="http://beian.miit.gov.cn/" rel="external nofollow" target="_blank" style="font-size:12px">京ICP备18039357号-1</a>'
+  copyright = '<a href="http://beian.miit.gov.cn/" rel="external nofollow" target="_blank" style="font-size:12px">京ICP备18039357号-4</a>'
 
 [params.author]
   name = "Dict Xiong"
@@ -19,7 +19,7 @@ title = "Dict Xiong"
   headline = "Work in Progress"
   # bio = "A little bit about you dd"
   links = [
-    { email = "mailto:me@beardic.cn" },
+    { email = "mailto:me@dxng.cn" },
     # { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

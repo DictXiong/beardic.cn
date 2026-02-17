@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://beardic.cn/"
+baseURL = "https://dxng.cn/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
